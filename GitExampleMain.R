@@ -2,8 +2,7 @@
 ###   GitExampleMain.R    ###
 #############################
 
-rm(list = ls())
-source("functions.R")
+source("GitExampleFunctions.R")
 
 x <- 3
 y <- 4
