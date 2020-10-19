@@ -2,6 +2,6 @@
 ### GitExampleFunctions.R ###
 #############################
 
-AddArguments <- function(x=1, y=2) {
+AddArguments <- function(x=3, y=4) {
   return(x + y)
 } # end AddArguments
