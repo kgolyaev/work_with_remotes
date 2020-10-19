@@ -7,4 +7,4 @@ source("GitExampleFunctions.R")
 x <- 3
 y <- 4
 z <- AddArguments(x, y)
-print(z)
+cat(z)
